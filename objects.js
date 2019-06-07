@@ -1,2 +1,2 @@
 var playlist = {};
-playlist.artist = 'song'
+playlist.artistName = 'songTitle'
